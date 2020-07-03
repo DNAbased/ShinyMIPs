@@ -1,0 +1,35 @@
+"shiny"	3
+"smMIPs"	4.5
+"HiSeq"	3.5
+"MiSeq"	2
+"NextSeq" 22
+"NovaSeq" 3
+"DNA"	3.5
+"Genome"	3
+"Genetics"	2
+"Genomics"	3.5
+"R"	2
+"Data"	3
+"GUI"	1
+"GWAS"	1.5
+"Resequencing"	3
+"Sequencing"	1
+"ACGT"	1
+"Homo sapiens"	2
+"MIPs"	3
+"Barcode"	2
+"Molecular tag"	1.5
+"Design"	2
+"Science"	2.5
+"NGS"	2.5
+"MIPgen"	2
+"Project"	1
+"Coverage"	3
+"UCSC"	2
+"Non-coding"	4
+"Hybridization"	1.5
+"Extension"	1.5
+"Ligation"	1.5
+"Rebalancing"	2
+"Analysis"	2.5
+"hg19"	1

@@ -1,5 +1,5 @@
 # ShinyMIPs
-A shiny user interface for the MIPgen pipeline by Evan Boyle / shendurelab (https://github.com/shendurelab/MIPGEN)
+A shiny user interface for Evan Boyle's MIPgen pipeline (https://github.com/shendurelab/MIPGEN)
 
 Requirements:
 - the helpers.R script from Dean Attali's Advanced Shiny repository in your working directory (https://github.com/daattali/advanced-shiny/blob/master/busy-indicator/helpers.R)

@@ -17,3 +17,11 @@ Optional requirements (only for the additional tools):
 - fasta_formatter (http://hannonlab.cshl.edu/fastx_toolkit/)
 
 For further information on reference files etc. see MIPgen.
+
+## Screenshots
+
+Gene selection and exon extraction
+![Genes](screenshot1.png)
+
+SmMIPs generation
+![MIPs](screenshot2.png)
